@@ -90,3 +90,4 @@ This means Ridge, tree ensembles, boosting and neural/sequence models should all
 - Bailey, D. H. & López de Prado, M. (2014). *The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting, and Non-Normality*. Journal of Portfolio Management 40(5), 94–107. https://doi.org/10.3905/jpm.2014.40.5.094
 - Gençay, E. (2026). *What survives honest evaluation? Leakage-safe, search-aware assessment of LLM-driven trading strategy discovery*. arXiv:2608.27734.
 - Didisheim, A., Ke, S., Kelly, B. T. & Malamud, S. (2023). *Complexity in Factor Pricing Models*. NBER Working Paper 31689. https://www.nber.org/papers/w31689
+- Holden, H. & Holden, L. (2013). *Optimal rebalancing of portfolios with transaction costs*. Stochastics 85(3), 371–394. https://doi.org/10.1080/17442508.2011.651219
